@@ -1,2 +1,1 @@
-# 12306
-scramble for tickets 
+# 12306查票，订票，抢票GUI
